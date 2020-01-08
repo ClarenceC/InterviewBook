@@ -2,7 +2,9 @@
 
 ### 面试问题
 
-[require，import区别？](https://www.zhihu.com/question/56820346)
+[* require，import区别？](https://www.zhihu.com/question/56820346)
+
+[*【前端词典】一文读懂单页应用和多页应用的区别——小生方勤](https://juejin.im/post/5cffa35a6fb9a07ec63b0bb0)
 
 
 
