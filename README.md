@@ -7,6 +7,12 @@
 [*【前端词典】一文读懂单页应用和多页应用的区别——小生方勤](https://juejin.im/post/5cffa35a6fb9a07ec63b0bb0)
 
 
+### 面试经
+
+- [37个JavaScript基本面试问题和解答](https://juejin.im/entry/5af036cbf265da0b8070aa5f)
+- [记一次大厂的面试过程](https://juejin.im/post/5db556376fb9a0207a6ddce7?utm_source=gold_browser_extension#heading-31)
+- [面试分享：两年工作经验成功面试阿里P6总结](https://juejin.im/post/5d690c726fb9a06b155dd40d)
+
 
 ### 简历进阶
 
