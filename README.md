@@ -6,14 +6,16 @@
 
 [*【前端词典】一文读懂单页应用和多页应用的区别——小生方勤](https://juejin.im/post/5cffa35a6fb9a07ec63b0bb0)
 
+[使用 Redux 的作用](./Question/使用redux的作用.md)
+
 
 ### 面试经
 
-- [37个JavaScript基本面试问题和解答](https://juejin.im/entry/5af036cbf265da0b8070aa5f)
-- [记一次大厂的面试过程](https://juejin.im/post/5db556376fb9a0207a6ddce7?utm_source=gold_browser_extension#heading-31)
-- [面试分享：两年工作经验成功面试阿里P6总结](https://juejin.im/post/5d690c726fb9a06b155dd40d)
-- [字节跳动面试官：请你实现一个大文件上传和断点续传](https://juejin.im/post/5dff8a26e51d4558105420ed?utm_source=gold_browser_extension)
-
+- [* 37个JavaScript基本面试问题和解答](https://juejin.im/entry/5af036cbf265da0b8070aa5f)
+- [* 记一次大厂的面试过程](https://juejin.im/post/5db556376fb9a0207a6ddce7?utm_source=gold_browser_extension#heading-31)
+- [* 面试分享：两年工作经验成功面试阿里P6总结](https://juejin.im/post/5d690c726fb9a06b155dd40d)
+- [* 字节跳动面试官：请你实现一个大文件上传和断点续传](https://juejin.im/post/5dff8a26e51d4558105420ed?utm_source=gold_browser_extension)
+- [* 2万5千字大厂面经 | 掘金技术征文](https://juejin.im/post/5ba34e54e51d450e5162789b#heading-58)
 
 ### 简历进阶
 
