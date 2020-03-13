@@ -19,6 +19,10 @@
 
 [CSS选择器性能优化](https://segmentfault.com/a/1190000013768970)
 
+### HTTP
+
+[* HTTP1.0、HTTP1.1 和 HTTP2.0 的区别](https://juejin.im/entry/5981c5df518825359a2b9476)
+
 ### 面试经
 
 - [* 37个JavaScript基本面试问题和解答](https://juejin.im/entry/5af036cbf265da0b8070aa5f)
