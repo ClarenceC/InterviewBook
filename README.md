@@ -41,6 +41,13 @@
 
 [* React 组件生命周期函数里 setState 调用分析](https://juejin.im/entry/5af0396351882567236eb022)
 
+
+### 其它问题
+
+[* 为何面试时都会问你的职业规划呢？该如何回答呢？](https://www.zhihu.com/question/20054953)
+
+
+
 ### 面试经
 
 - [* 37个JavaScript基本面试问题和解答](https://juejin.im/entry/5af036cbf265da0b8070aa5f)
