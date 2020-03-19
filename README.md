@@ -15,6 +15,12 @@
 
 [实现LikeArray函数](./JavaScript/实现LikeArray函数.md)
 
+[JS如何给ul下的所有li绑定点击事件，点击使其弹出下标和内容](https://blog.csdn.net/Web_J/article/details/83900073)
+
+[3个经常被问到的 JavaScript 面试题_事件委托](https://segmentfault.com/a/1190000008562917)
+
+
+
 ### CSS
 
 [CSS选择器性能优化](https://segmentfault.com/a/1190000013768970)
