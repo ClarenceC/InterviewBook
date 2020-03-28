@@ -41,7 +41,9 @@
 
 [* 为何面试时都会问你的职业规划呢？该如何回答呢？](https://www.zhihu.com/question/20054953)
 
+[* W3C是什么?](https://baike.baidu.com/item/%E4%B8%87%E7%BB%B4%E7%BD%91%E8%81%94%E7%9B%9F/1458269?fromtitle=w3c&fromid=216888)
 
+[* W3C是什么?什么是W3C标准?](https://blog.csdn.net/niguang09/article/details/7428676)
 
 ### 面试经
 
