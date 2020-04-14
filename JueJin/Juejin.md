@@ -6,3 +6,5 @@
 - [* 字节跳动面试官：请你实现一个大文件上传和断点续传](https://juejin.im/post/5dff8a26e51d4558105420ed?utm_source=gold_browser_extension)
 - [* 2万5千字大厂面经 | 掘金技术征文](https://juejin.im/post/5ba34e54e51d450e5162789b#heading-58)
 - [阿里前端攻城狮们写了一份前端面试题答案，请查收](https://juejin.im/post/5e7426d15188254967069c00?utm_source=gold_browser_extension)
+- [一位前端 2018 绝地求生记 | 掘金年度征文_LienJack](https://juejin.im/post/5c36fe50518825253b5e94f4#heading-25)
+- [艺术喵 2 年前端面试心路历程（字节跳动、YY、虎牙、BIGO）| 掘金技术征文_LienJack](https://juejin.im/post/5e85ec79e51d4547153d0738)
