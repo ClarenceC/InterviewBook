@@ -57,3 +57,7 @@
 
 [如何写一份有效的技术简历？——阮一峰](http://www.ruanyifeng.com/blog/2020/01/technical-resume.html)
 [一份优秀的前端开发工程师简历是怎样的?](https://www.zhihu.com/question/23150301)
+
+
+## 手写系列
+
