@@ -57,7 +57,10 @@
 
 [如何写一份有效的技术简历？——阮一峰](http://www.ruanyifeng.com/blog/2020/01/technical-resume.html)
 [一份优秀的前端开发工程师简历是怎样的?](https://www.zhihu.com/question/23150301)
+[如何编写一份好的互联网校招简历](https://mp.weixin.qq.com/s/FJh87uZQJD8TLHKG7DKGeQ)
 
-
+### GitHub 面经仓
+[front-end-interview-handbook_yangshun](https://github.com/yangshun/front-end-interview-handbook)
 ## 手写系列
 
+[手写 Promise](./DIY/Promise/Promise.js)
