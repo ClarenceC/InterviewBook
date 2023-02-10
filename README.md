@@ -42,6 +42,14 @@
 
 [React 面试问题（含答案和示例）](https://www.freecodecamp.org/chinese/news/react-interview-questions-and-answers)
 
+[React@16.8.6原理浅析（概念介绍）](https://juejin.cn/post/6844904050505302023)
+
+[一文吃透 React 事件机制原理](https://toutiao.io/posts/28of14w/preview)
+
+[五个关键的 React 知识点](https://www.freecodecamp.org/chinese/news/5-react-lessons-tutorials-dont-teach/)
+
+[React Hooks原理探究，看完不懂，你打我](https://juejin.cn/post/6891577820821061646)
+
 ### 其它问题
 
 [🎯 为何面试时都会问你的职业规划呢？该如何回答呢？](https://www.zhihu.com/question/20054953)
